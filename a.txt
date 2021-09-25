@@ -1,1 +1,2 @@
 i want try git ammend command
+i am adding here second line
